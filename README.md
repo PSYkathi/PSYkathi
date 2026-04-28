@@ -16,3 +16,14 @@
 </a>
 
 </div>
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Muhammed%20Naif%20Sayeed-%20Naif-1a6fff?style=for-the-badge&labelColor=0a0f2c" />
+&nbsp;
+<img src="https://img.shields.io/badge/AI%20Architect-%20Full--Stack%20Developer-0d2157?style=for-the-badge&labelColor=0a0f2c" />
+&nbsp;
+<img src="https://img.shields.io/badge/Adaptable%20Builder%20%7C%20Dreamer-0a0f2c?style=for-the-badge&labelColor=1a6fff" />
+
+</div>
