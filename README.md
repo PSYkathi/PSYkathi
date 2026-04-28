@@ -252,4 +252,40 @@ Architecting an all-in-one platform to redefine the global e-commerce landscape 
 
 <br/>
 
----
+<div align="center">
+
+### `> connect.with_me`
+
+<br/>
+
+<a href="https://linkedin.com/in/muhammednaifsayeed">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammed%20Naif%20Sayeed-0a0f2c?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=0d2157" />
+</a>
+
+<br/><br/>
+
+<a href="mailto:muhammednaifsayeed@gmail.com">
+  <img src="https://img.shields.io/badge/Email-muhammednaifsayeed%40gmail.com-0a0f2c?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=0d2157" />
+</a>
+
+<br/><br/>
+
+<a href="https://instagram.com/naife.__">
+  <img src="https://img.shields.io/badge/Instagram-naife.__-0a0f2c?style=for-the-badge&logo=instagram&logoColor=e1306c&labelColor=0d2157" />
+</a>
+
+<br/><br/>
+
+<a href="https://PSYkathi.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-PSYkathi.github.io-0a0f2c?style=for-the-badge&logo=github&logoColor=7eb8ff&labelColor=0d2157" />
+</a>
+
+<br/><br/>
+
+> *"Most people build features. The Architect builds foundations."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6fff,50:0d2157,100:0a0f2c&height=120&section=footer&fontColor=e8f0ff&animation=fadeIn" width="100%" />
+
+</div>
